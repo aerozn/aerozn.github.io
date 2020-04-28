@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Walnut‘s world</title>
+  <title>Walnut&#39;s world</title>
   
   <subtitle>为学日益 为道日损</subtitle>
   <link href="/atom.xml" rel="self"/>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Day16 甜筒小核桃吃兔兔</title>
-    <link href="http://yoursite.com/2020/04/28/Day16/"/>
-    <id>http://yoursite.com/2020/04/28/Day16/</id>
+    <link href="http://yoursite.com/category/Day16/"/>
+    <id>http://yoursite.com/category/Day16/</id>
     <published>2020-04-28T10:58:08.000Z</published>
     <updated>2020-04-28T11:33:10.872Z</updated>
     
@@ -40,10 +40,10 @@
   
   <entry>
     <title>北京妇产医院攻略</title>
-    <link href="http://yoursite.com/2020/04/27/%E5%8C%97%E4%BA%AC%E5%A6%87%E4%BA%A7%E5%8C%BB%E9%99%A2%E6%94%BB%E7%95%A5/"/>
-    <id>http://yoursite.com/2020/04/27/%E5%8C%97%E4%BA%AC%E5%A6%87%E4%BA%A7%E5%8C%BB%E9%99%A2%E6%94%BB%E7%95%A5/</id>
+    <link href="http://yoursite.com/category/%E5%8C%97%E4%BA%AC%E5%A6%87%E4%BA%A7%E5%8C%BB%E9%99%A2%E6%94%BB%E7%95%A5/"/>
+    <id>http://yoursite.com/category/%E5%8C%97%E4%BA%AC%E5%A6%87%E4%BA%A7%E5%8C%BB%E9%99%A2%E6%94%BB%E7%95%A5/</id>
     <published>2020-04-27T11:39:00.000Z</published>
-    <updated>2020-04-27T13:11:53.082Z</updated>
+    <updated>2020-04-28T13:03:35.143Z</updated>
     
     <content type="html"><![CDATA[<p>北京妇产医院生孩子的需要跑的手续的全过程记录。</p>]]></content>
     
@@ -63,8 +63,8 @@
   
   <entry>
     <title>Day15 第一次穿爬爬服的呆萌帅核桃</title>
-    <link href="http://yoursite.com/2020/04/27/Day15/"/>
-    <id>http://yoursite.com/2020/04/27/Day15/</id>
+    <link href="http://yoursite.com/category/Day15/"/>
+    <id>http://yoursite.com/category/Day15/</id>
     <published>2020-04-27T11:26:05.000Z</published>
     <updated>2020-04-27T11:29:26.227Z</updated>
     
@@ -86,8 +86,8 @@
   
   <entry>
     <title>Day14 不好好吃奶的小核桃</title>
-    <link href="http://yoursite.com/2020/04/26/Day14/"/>
-    <id>http://yoursite.com/2020/04/26/Day14/</id>
+    <link href="http://yoursite.com/category/Day14/"/>
+    <id>http://yoursite.com/category/Day14/</id>
     <published>2020-04-26T03:31:34.000Z</published>
     <updated>2020-04-26T10:27:09.168Z</updated>
     
@@ -109,8 +109,8 @@
   
   <entry>
     <title>Day13 床单破坏者</title>
-    <link href="http://yoursite.com/2020/04/25/Day13/"/>
-    <id>http://yoursite.com/2020/04/25/Day13/</id>
+    <link href="http://yoursite.com/category/Day13/"/>
+    <id>http://yoursite.com/category/Day13/</id>
     <published>2020-04-25T07:52:31.000Z</published>
     <updated>2020-04-25T07:55:18.445Z</updated>
     
@@ -131,8 +131,8 @@
   
   <entry>
     <title>Day12 吃药的小核桃</title>
-    <link href="http://yoursite.com/2020/04/24/Day12/"/>
-    <id>http://yoursite.com/2020/04/24/Day12/</id>
+    <link href="http://yoursite.com/category/Day12/"/>
+    <id>http://yoursite.com/category/Day12/</id>
     <published>2020-04-24T06:55:49.000Z</published>
     <updated>2020-04-27T11:22:26.281Z</updated>
     
@@ -154,8 +154,8 @@
   
   <entry>
     <title>Day11 脱皮核桃晒太阳</title>
-    <link href="http://yoursite.com/2020/04/23/day11/"/>
-    <id>http://yoursite.com/2020/04/23/day11/</id>
+    <link href="http://yoursite.com/category/day11/"/>
+    <id>http://yoursite.com/category/day11/</id>
     <published>2020-04-23T07:28:32.000Z</published>
     <updated>2020-04-23T12:18:07.768Z</updated>
     
@@ -178,8 +178,8 @@
   
   <entry>
     <title>Day10 核桃十天啦</title>
-    <link href="http://yoursite.com/2020/04/22/Day10-%E5%B0%8F%E6%A0%B8%E6%A1%83/"/>
-    <id>http://yoursite.com/2020/04/22/Day10-%E5%B0%8F%E6%A0%B8%E6%A1%83/</id>
+    <link href="http://yoursite.com/category/Day10-%E5%B0%8F%E6%A0%B8%E6%A1%83/"/>
+    <id>http://yoursite.com/category/Day10-%E5%B0%8F%E6%A0%B8%E6%A1%83/</id>
     <published>2020-04-22T03:39:26.000Z</published>
     <updated>2020-04-22T17:16:14.732Z</updated>
     
@@ -203,8 +203,8 @@
   
   <entry>
     <title>Day9 小核桃食欲愈来越好</title>
-    <link href="http://yoursite.com/2020/04/21/%E5%B0%8F%E6%A0%B8%E6%A1%838%E5%A4%A9%E4%BA%86/"/>
-    <id>http://yoursite.com/2020/04/21/%E5%B0%8F%E6%A0%B8%E6%A1%838%E5%A4%A9%E4%BA%86/</id>
+    <link href="http://yoursite.com/category/%E5%B0%8F%E6%A0%B8%E6%A1%838%E5%A4%A9%E4%BA%86/"/>
+    <id>http://yoursite.com/category/%E5%B0%8F%E6%A0%B8%E6%A1%838%E5%A4%A9%E4%BA%86/</id>
     <published>2020-04-21T12:55:00.000Z</published>
     <updated>2020-04-23T05:25:04.035Z</updated>
     
@@ -227,8 +227,8 @@
   
   <entry>
     <title>Day8 去医院采足跟血</title>
-    <link href="http://yoursite.com/2020/04/20/Day8-%E5%B0%8F%E6%A0%B8%E6%A1%83/"/>
-    <id>http://yoursite.com/2020/04/20/Day8-%E5%B0%8F%E6%A0%B8%E6%A1%83/</id>
+    <link href="http://yoursite.com/category/Day8-%E5%B0%8F%E6%A0%B8%E6%A1%83/"/>
+    <id>http://yoursite.com/category/Day8-%E5%B0%8F%E6%A0%B8%E6%A1%83/</id>
     <published>2020-04-20T06:15:00.000Z</published>
     <updated>2020-04-27T10:48:47.733Z</updated>
     
@@ -249,8 +249,8 @@
   
   <entry>
     <title>Day7 大家都说小核桃眼大</title>
-    <link href="http://yoursite.com/2020/04/19/Day7/"/>
-    <id>http://yoursite.com/2020/04/19/Day7/</id>
+    <link href="http://yoursite.com/category/Day7/"/>
+    <id>http://yoursite.com/category/Day7/</id>
     <published>2020-04-19T06:21:00.000Z</published>
     <updated>2020-04-22T13:45:42.462Z</updated>
     
@@ -272,8 +272,8 @@
   
   <entry>
     <title>Day6 黄疸开始生发</title>
-    <link href="http://yoursite.com/2020/04/18/Day6/"/>
-    <id>http://yoursite.com/2020/04/18/Day6/</id>
+    <link href="http://yoursite.com/category/Day6/"/>
+    <id>http://yoursite.com/category/Day6/</id>
     <published>2020-04-18T06:22:00.000Z</published>
     <updated>2020-04-22T07:09:46.886Z</updated>
     
@@ -294,8 +294,8 @@
   
   <entry>
     <title>Day5 母乳供给就位</title>
-    <link href="http://yoursite.com/2020/04/17/Day-5/"/>
-    <id>http://yoursite.com/2020/04/17/Day-5/</id>
+    <link href="http://yoursite.com/category/Day-5/"/>
+    <id>http://yoursite.com/category/Day-5/</id>
     <published>2020-04-17T06:23:00.000Z</published>
     <updated>2020-04-22T07:08:28.756Z</updated>
     
@@ -316,8 +316,8 @@
   
   <entry>
     <title>Day4 小核桃饿了</title>
-    <link href="http://yoursite.com/2020/04/16/Day4/"/>
-    <id>http://yoursite.com/2020/04/16/Day4/</id>
+    <link href="http://yoursite.com/category/Day4/"/>
+    <id>http://yoursite.com/category/Day4/</id>
     <published>2020-04-16T06:23:00.000Z</published>
     <updated>2020-04-22T07:04:28.935Z</updated>
     
@@ -338,8 +338,8 @@
   
   <entry>
     <title>Day3 换上了姥姥带的新衣服！</title>
-    <link href="http://yoursite.com/2020/04/15/Day-3/"/>
-    <id>http://yoursite.com/2020/04/15/Day-3/</id>
+    <link href="http://yoursite.com/category/Day-3/"/>
+    <id>http://yoursite.com/category/Day-3/</id>
     <published>2020-04-15T06:23:00.000Z</published>
     <updated>2020-04-23T05:24:17.724Z</updated>
     
@@ -361,8 +361,8 @@
   
   <entry>
     <title>Day2 出院回家了！</title>
-    <link href="http://yoursite.com/2020/04/14/Day2/"/>
-    <id>http://yoursite.com/2020/04/14/Day2/</id>
+    <link href="http://yoursite.com/category/Day2/"/>
+    <id>http://yoursite.com/category/Day2/</id>
     <published>2020-04-14T06:30:00.000Z</published>
     <updated>2020-04-22T17:19:52.167Z</updated>
     
@@ -384,8 +384,8 @@
   
   <entry>
     <title>Day1妇产医院度过第一天</title>
-    <link href="http://yoursite.com/2020/04/13/Day1/"/>
-    <id>http://yoursite.com/2020/04/13/Day1/</id>
+    <link href="http://yoursite.com/category/Day1/"/>
+    <id>http://yoursite.com/category/Day1/</id>
     <published>2020-04-13T06:30:00.000Z</published>
     <updated>2020-04-22T06:53:25.753Z</updated>
     
@@ -406,8 +406,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/04/12/hello-world/"/>
-    <id>http://yoursite.com/2020/04/12/hello-world/</id>
+    <link href="http://yoursite.com/category/hello-world/"/>
+    <id>http://yoursite.com/category/hello-world/</id>
     <published>2020-04-12T15:19:00.000Z</published>
     <updated>2020-04-23T12:44:18.567Z</updated>
     
